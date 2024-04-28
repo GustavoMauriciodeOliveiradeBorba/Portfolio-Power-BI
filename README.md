@@ -2,7 +2,7 @@
 
  Dashboards desenvolvidos com ênfase no aprendizado da ferramenta Power BI, com o objetivo de criar um portfólio que reflete situações cotidianas reais:
 
-
+- [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/GustavoMauriciodeOliveiradeBorba/Portfolio-Power-BI/tree/5db886b69a2b4e339a8c0133f0233eb7556c3aca/Dashboard%20Anal%C3%ADtico%20de%20Vendas%20Globais)
 
 **Dashboard de Vendas, Custo, Margem de Lucro e KPI**
 
