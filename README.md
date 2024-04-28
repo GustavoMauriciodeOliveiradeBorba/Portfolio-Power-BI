@@ -9,7 +9,9 @@
 
 ![DashboarddeVendasCustoMargemdeLucroeKPI-PowerBIemais4pginas-PessoalMicrosoftEdge2024-04-2816-32-48-ezgif com-video-to-gif-converter](https://github.com/GustavoMauriciodeOliveiradeBorba/Portfolio-Power-BI/assets/168369314/b2905e4c-4050-47a9-b138-e0010db894f9) 
 
-Arquivo Cliente.csv que contém inicialmente as seguintes colunas:
+**_Composição das Bases de dados utilizadas_**
+
+Arquivo Clientes.csv que contém inicialmente as seguintes colunas:
 
 **_Tabela Cliente_**
 - Pedido;
@@ -31,4 +33,4 @@ Arquivo Cliente.csv que contém inicialmente as seguintes colunas:
 
 > **Margem Lucro = ROUND(DIVIDE(Vendas[Lucro],Vendas[Valor Venda]) * 100,2)**
 
-
+Arquivo Pedidos.csv que contém inicialmente as seguintes colunas:
