@@ -41,6 +41,14 @@ Arquivo Vendas.csv que contém inicialmente as seguintes colunas:
 
 > **Margem Lucro = ROUND(DIVIDE(Vendas[Lucro],Vendas[Valor Venda]) * 100,2)**
 
+**Relacionamento entre as tabelas**
+
+Todos os relacionamentos criados, utilizaram a cardinalidade Muitos para Um (*:1)
+
+![image](https://github.com/GustavoMauriciodeOliveiradeBorba/Portfolio-Power-BI/assets/168369314/49786ffb-ef89-4ca7-9b84-787e071dfa32)
+
+
+
 
 
 
