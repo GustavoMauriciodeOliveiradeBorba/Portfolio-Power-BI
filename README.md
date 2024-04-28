@@ -10,10 +10,18 @@
 ![DashboarddeVendasCustoMargemdeLucroeKPI-PowerBIemais4pginas-PessoalMicrosoftEdge2024-04-2816-32-48-ezgif com-video-to-gif-converter](https://github.com/GustavoMauriciodeOliveiradeBorba/Portfolio-Power-BI/assets/168369314/b2905e4c-4050-47a9-b138-e0010db894f9) 
 
 **_Composição das Bases de dados utilizadas_**
+ Para a criação deste dashboard, foram utilizadas 4 fontes de dados, sendo elas:
 
-Arquivo Clientes.csv que contém inicialmente as seguintes colunas:
+ - Clientes.csv
+ - Pedidos.csv
+ - Produtos.csv
+ - Vendas.csv
 
-**_Tabela Cliente_**
+_Observação: Apenas a tabela vendas ganhou colunas adicionais, conforme descrição a seguir:_
+
+Arquivo Vendas.csv que contém inicialmente as seguintes colunas:
+
+**Tabela Vendas**
 - Pedido;
 - Cliente;
 - Produto;
@@ -33,4 +41,7 @@ Arquivo Clientes.csv que contém inicialmente as seguintes colunas:
 
 > **Margem Lucro = ROUND(DIVIDE(Vendas[Lucro],Vendas[Valor Venda]) * 100,2)**
 
-Arquivo Pedidos.csv que contém inicialmente as seguintes colunas:
+
+
+
+
