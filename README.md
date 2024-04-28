@@ -10,7 +10,7 @@
 
 ![DashboarddeVendasCustoMargemdeLucroeKPI-PowerBIemais4pginas-PessoalMicrosoftEdge2024-04-2816-32-48-ezgif com-video-to-gif-converter](https://github.com/GustavoMauriciodeOliveiradeBorba/Portfolio-Power-BI/assets/168369314/b2905e4c-4050-47a9-b138-e0010db894f9) 
 
-**_Composição das Bases de dados utilizadas_**
+**_Bases de dados utilizadas_**
 
  Para a criação deste dashboard, foram utilizadas 4 fontes de dados, sendo elas:
 
@@ -50,7 +50,31 @@ Todos os relacionamentos criados, utilizaram a cardinalidade Muitos para Um (*:1
 ![image](https://github.com/GustavoMauriciodeOliveiradeBorba/Portfolio-Power-BI/assets/168369314/49786ffb-ef89-4ca7-9b84-787e071dfa32)
 
 
+**Dashboard Analítico de Vendas Globais**
 
+**_Composição da Bases de dado utilizada_**
+
+ Para a criação deste dashboard, foi utilizada apenas uma fonte de dados:
+
+- Dataset.csv
+
+Arquivo Dataset.csv que contém inicialmente as seguintes colunas:
+- ID_Pedido;
+- Data_Pedido;
+- ID_Cliente;
+- Segmento;
+- Regiao;
+- Pais;
+- Product ID;
+- Categoria;
+- SubCategoria;
+- Total_Vendas;
+- Quantidade;
+- Desconto;
+- Lucro;
+- Prioridade
+
+  Nenhuma coluna adicional foi criada.
 
 
 
