@@ -52,6 +52,9 @@ Todos os relacionamentos criados, utilizaram a cardinalidade Muitos para Um (*:1
 
 **Dashboard Analítico de Vendas Globais**
 
+![DashboardAnalticodeVendasGlobais-PowerBI-PessoalMicrosoftEdge2024-05-1516-14-06-ezgif com-video-to-gif-converter](https://github.com/GustavoMauriciodeOliveiradeBorba/Portfolio-Power-BI/assets/168369314/5641fff4-b9c4-4beb-8429-df1b0871d26d)
+
+
 **_Composição da Bases de dado utilizada_**
 
  Para a criação deste dashboard, foi utilizada apenas uma fonte de dados:
